@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<spring-boot-rest-api-tutorial>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.staxrt.tutorial.Application",
+            "projectName": "spring-boot-rest-api-tutorial",
+            "args": ""
+        }
+    ]
+}
